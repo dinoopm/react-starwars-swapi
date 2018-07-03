@@ -1,6 +1,6 @@
 # React Redux Star Wars Application
 
-Hacker news feeds 
+Single page application shows the people and their details in starwar series using SWAPI.
 
 # Usage
 
